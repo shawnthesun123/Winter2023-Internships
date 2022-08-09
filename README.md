@@ -4,6 +4,6 @@
 
 |Name|Location|Application Period|Notes|
 |---|---|---|---|
-|[&lt;Google&gt;]([ https://careers.google.com/jobs/results/119412589869310662-software-engineering-intern-bachelors-winter-2023 ])|Your choice|August 19th, 2023|   |
+|[Google](https://careers.google.com/jobs/results/119412589869310662-software-engineering-intern-bachelors-winter-2023/)|Your choice|August 19th, 2023|   |
 |   |   |   |   |
 |   |   |   |   |
