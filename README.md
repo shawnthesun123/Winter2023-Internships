@@ -11,3 +11,4 @@
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1388845/Software-Engineering-Intern-Opportunities-for-University-Students-United-States)|U.S|???|Software Engineer|???|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/)|New York|???|Software Engineer|This is summer term only, apply anyways lol|
 |[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/)|New York|???|Software Engineer|???|
+|[Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT)|Santa Clara, CA|???|Software Engineer|???|
