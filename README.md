@@ -18,3 +18,5 @@
 |[Uber](https://university-uber.icims.com/jobs/116847/job)|San Franciso|???|Software Engineer|Not stated if for Winter term|
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002)|Pittsburgh, PA|???|Software Engineer|Not stated if for Winter term|
 |[Ericsson](https://jobs.ericsson.com/job/Madrid-Cloud-Engineer-Intern-Madr/749639402/)|Madrid, Spain|???|Software Engineer|Not stated if for Winter term|
+|[Intuit](https://jobs.intuit.com/job/-/-/27595/33672146000)|U.S|???|Software Engineer|Not stated if for Winter term|
+|[Yugabyte](https://jobs.lever.co/yugabyte/04069622-96ff-4079-a99f-3d38a3d5a451)|U.S|???|Software Engineer|Not stated if for Winter term|
