@@ -10,8 +10,8 @@
 |[Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)|U.S|???|Software Development Engineer|Not stated if for Winter term|
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1388845/Software-Engineering-Intern-Opportunities-for-University-Students-United-States)|U.S|???|Software Engineer|Not stated if for Winter term|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6213528002/)|New York|???|Software Engineer|This is summer term only, apply anyways lol|
-|[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/)|New York|???|Software Engineer|???|
-|[Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT)|Santa Clara, CA|???|Software Engineer|???|
+|[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/)|New York|???|Software Engineer|Not stated if for Winter term|
+|[Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT)|Santa Clara, CA|???|Software Engineer|Not stated if for Winter term|
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999845100046)|Santa Francisco, CA|???|Software Engineer|Not stated if for Winter term|
 |[Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c)|Palo Alto, CA|???|Software Engineer|Not stated if for Winter term|
 |[Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/)|San Francisco|???|Engineering Intern|Not stated if for Winter term|
