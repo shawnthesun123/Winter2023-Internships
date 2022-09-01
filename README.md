@@ -14,7 +14,6 @@
 |[Apple](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=STDNT)|Santa Clara, CA|???|Software Engineer|Not stated if for Winter term|
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999845100046)|Santa Francisco, CA|???|Software Engineer|Not stated if for Winter term|
 |[Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c)|Palo Alto, CA|???|Software Engineer|Not stated if for Winter term|
-|[Twitch](https://www.amazon.jobs/en/jobs/2186414/engineering-intern/)|San Francisco|???|Engineering Intern|Not stated if for Winter term|
 |[Uber](https://university-uber.icims.com/jobs/116847/job)|San Franciso|???|Software Engineer|Not stated if for Winter term|
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302411002)|Pittsburgh, PA|???|Software Engineer|Not stated if for Winter term|
 |[Ericsson](https://jobs.ericsson.com/job/Madrid-Cloud-Engineer-Intern-Madr/749639402/)|Madrid, Spain|???|Software Engineer|Not stated if for Winter term|
